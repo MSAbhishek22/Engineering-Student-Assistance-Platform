@@ -1,10 +1,11 @@
-# Engineering-Student-Assistance-Platform
 # 🎓 Engineering Student Assistance Platform
 
 ## 🚀 About the Project
-A Progressive Web App (PWA) built by seniors for juniors, providing essential resources for technical students (BTech, BCA, etc.). 
+A Progressive Web App (PWA) built by seniors for juniors, providing essential resources for technical students (BTech, BCA, etc.).
 
 🔖 Tagline: "Be the senior you ever wanted to have."
+
+> **Repository status:** This repository currently contains only this README — the project outline and planned build. The application code is not in this repository yet, so the tech stack and installation steps below describe the planned setup for when the code lands.
 
 🌟 Key Features
 📖 Study & Exam Preparation:
@@ -32,8 +33,8 @@ A Progressive Web App (PWA) built by seniors for juniors, providing essential re
 - AI Chatbot for Guidance: Career advice, study tips, and resume help.
 
 🏗 Tech Stack
-- Frontend: React (Vite), Tailwind CSS, React Router  
-- Backend: Node.js, Express.js, MongoDB (Atlas), Firebase Auth  
+- Frontend: React (Vite), Tailwind CSS, React Router
+- Backend: Node.js, Express.js, MongoDB (Atlas), Firebase Auth
 - Other Tools: Firestore (Community), OpenAI API (Chatbot), Google Meet API
 
 🛠 Installation
@@ -52,7 +53,7 @@ Clone & Install:
 
 
 🚀 Deployment
-- Frontend: Vercel  
+- Frontend: Vercel
 - Backend: Railway.app / Render / VPS
 
  📌 Contributing
@@ -64,12 +65,11 @@ Clone & Install:
 
 🎯 Future Enhancements
 ✅ Industry Mentorship
-✅ Gamification (Points & Badges) 
-✅ Internship Matching System  
-✅ Mobile App (React Native) 
+✅ Gamification (Points & Badges)
+✅ Internship Matching System
+✅ Mobile App (React Native)
 
  💬 Need Help?
-For any queries, reach out via email: msabhishekanni10@gmail.com 
+For any queries, reach out via email: msabhishekanni10@gmail.com
 
 🚀 Let's make this the best platform for students! 🎓🔥
-
